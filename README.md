@@ -1,2 +1,2 @@
 # mca
-mca repo
+mca repo for mca student
